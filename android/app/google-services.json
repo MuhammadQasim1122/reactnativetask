@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864623806368",
+    "firebase_url": "https://reactnative-task-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reactnative-task",
+    "storage_bucket": "reactnative-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864623806368:android:555a291befca76d26c46c5",
+        "android_client_info": {
+          "package_name": "com.reacttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864623806368-5qg6t2t7651shbmp4sh39igj5t1gsl27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlZhGeNXchI5KCn03DvYmPqOGO0NeMJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864623806368-5qg6t2t7651shbmp4sh39igj5t1gsl27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
